@@ -1,0 +1,1 @@
+export default function LandingPage() { return (<div className='text-center p-20'>Placeholder – vložte kód landing page.</div>); }
